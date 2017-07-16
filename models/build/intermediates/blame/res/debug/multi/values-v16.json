@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Sofoklis\\AndroidStudioProjects\\MyGreekSpeechRecognition\\models\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "C:\\Users\\Sofoklis\\.android\\build-cache\\f882ae6d473f6d7b796dffc67477370f31f3d4f3\\output\\res\\values-v16\\values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    }
+]
